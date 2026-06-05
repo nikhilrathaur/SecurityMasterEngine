@@ -106,7 +106,7 @@ SecurityMasterEngine/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SecurityMasterEngine.git
+git clone https://github.com/nikhilrathaur/SecurityMasterEngine.git
 cd SecurityMasterEngine
 ```
 
