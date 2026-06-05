@@ -226,6 +226,26 @@ This project demonstrates:
 
 ---
 
+# Screenshots
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## API Documentation
+
+![API Docs](screenshots/apidocs.png)
+
+---
+
+## Validation Engine
+
+![Validation](screenshots/validation.png)
+
+---
+
 # Author
 
 Nikhil Singh Rathaur
